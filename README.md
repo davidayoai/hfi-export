@@ -12,3 +12,9 @@ Checked: $TMPDIR/claude-hfi, /var/folders/*/*/T/claude-hfi, /tmp/claude-hfi, ~/.
 
 
 watch this video - https://www.loom.com/share/0ec242008ef34548bf32c685698626f4
+
+
+
+
+
+look at this - https://docs.google.com/forms/d/e/1FAIpQLSfa52a8SKtU662-zO2avaRGzPGwfsB1eXXCyyZqaW2g1dTGUw/viewform
